@@ -148,6 +148,8 @@ a:link, a:visited {
     }
 
     /* step 21 */
-    /* TODO */
+    div.pricing ul li:nth-child(2)::after{
+        content:"\1F44D";
+    }
 
 }
